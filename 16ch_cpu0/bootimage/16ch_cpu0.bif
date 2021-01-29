@@ -1,8 +1,0 @@
-//arch = zynq; split = false; format = BIN
-the_ROM_image:
-{
-	[bootloader]D:\Share\shucai\20200630\03_DigSampPlat_16Chan_Udp_INT_modify_usart\DigSampPlat.sdk\FSBL\Debug\FSBL.elf
-	D:\Share\shucai\20200630\03_DigSampPlat_16Chan_Udp_INT_modify_usart\DigSampPlat.runs\impl_1\design_1_wrapper.bit
-	D:\Share\shucai\20200630\03_DigSampPlat_16Chan_Udp_INT_modify_usart\DigSampPlat.sdk\16ch_cpu0\Debug\16ch_cpu0.elf
-	D:\Share\shucai\20200630\03_DigSampPlat_16Chan_Udp_INT_modify_usart\DigSampPlat.sdk\16ch_cpu1\Debug\16ch_cpu1.elf
-}
